@@ -1,5 +1,3 @@
-# M3_CHALLENGE
-
 # CRYPTO ARBITRAGE
 
 In this comprehensive module, we will use the Bitstamp and Coinbase Cryto Exchanges to exploit arbitrage opportunities in the price of Bitcoin. This thorough, extensive code wiil execute the following three objectives: 
